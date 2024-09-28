@@ -25,3 +25,89 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+# Miscellaneous
+.DS_Store
+.idea/
+*.iml
+*.hprof
+
+# Flutter/Dart/Pub related files
+**/android/**/gradle-wrapper.jar
+
+# Flutter dependencies
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.cocoapods/
+.flutter-plugins-dependencies
+flutter_export_environment.sh
+
+# iOS related files
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/Flutter.framework
+ios/Flutter/App.framework
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Flutter.podspec
+
+# Android related files
+android/.gradle/
+android/app/*.iml
+android/app/build/
+android/local.properties
+android/app/proguard-rules.pro
+android/gradle/
+android/build/
+
+# IntelliJ related files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related files
+.vscode/
+
+# Web related files
+web/.dart_tool/
+web/manifest.json
+
+# macOS related files
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.podspec
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/Flutter.framework
+macos/Flutter/App.framework
+
+# Windows related files
+windows/flutter/ephemeral/
+
+# Linux related files
+linux/flutter/ephemeral/
+
+# Coverage related files
+coverage/
+
+# Test result files
+.junit/
+test-results/
+
+# Obsolete files
+*.log
+*.tmp
+
+build/
+build
+/build
+build/*

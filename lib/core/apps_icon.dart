@@ -9,7 +9,7 @@ class AppIcon {
   static const String selectedUser = 'assets/icons/selected_user.svg';
   static const String selectedSetting = 'assets/icons/selected_setting.svg';
   static const String menu = 'assets/icons/menu.svg';
-  static const String collecton_box = 'assets/icons/collection_box.svg';
+  static const String collectonBox = 'assets/icons/collection_box.svg';
   static const String arrowDown = 'assets/icons/arrow_down.svg';
   static const String collectionNew = 'assets/icons/collection_new.svg';
   static const String bubble = 'assets/icons/bubble.svg';
@@ -20,4 +20,6 @@ class AppIcon {
   static const String more = 'assets/icons/more.svg';
   static const String filter = 'assets/icons/filter.svg';
   static const String heart2 = 'assets/icons/heart2.svg';
+  static const String backButtonBlack = 'assets/icons/back_button_black.svg';
+  static const String done = 'assets/icons/done.svg';
 }

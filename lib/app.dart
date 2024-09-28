@@ -3,7 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:i_declare/core/utility/app_colors.dart';
-import 'package:i_declare/feature/splash/presentation/splash.dart';
+import 'package:i_declare/feature/splash/presentation/screens/splash.dart';
 
 class Ideclare extends StatelessWidget {
   const Ideclare({super.key});

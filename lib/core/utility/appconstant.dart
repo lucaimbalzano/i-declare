@@ -33,7 +33,7 @@ class AppConstant {
       'tittle': 'I am\ncreated\nin the\nimage of god '
     },
     {
-      'color': const Color(0xff55DB89),
+      'color': const Color(0xff37825c),
       'textSize': false,
       'black': false,
       'tittle': 'I am\ncreated\nin the\nimage of god'
@@ -98,31 +98,14 @@ class AppConstant {
     },
   ];
   static final List identityCategory = [
-    {
-      'tittle': 'Joy',
-      'isColor': false,
-    },
-    {
-      'tittle': 'Love',
-      'isColor': true,
-    },
-    {
-      'tittle': 'Anger',
-      'isColor': false,
-    },
-    {
-      'tittle': 'Anxiety',
-      'isColor': false,
-    },
-    {
-      'tittle': 'Sadness',
-      'isColor': false,
-    },
-    {
-      'tittle': '...',
-      'isColor': false,
-    },
+    {'tittle': 'Joy'},
+    {'tittle': 'Love'},
+    {'tittle': 'Anger'},
+    {'tittle': 'Anxiety'},
+    {'tittle': 'Sadness'},
+    {'tittle': '...'},
   ];
+
   static final List genrateCard = [
     {
       'tittle': '10',
@@ -139,24 +122,28 @@ class AppConstant {
   ];
   static final List favoriteList = [
     {
-      'tittle': 'I am created in the image of God',
+      'tittle': 'I am\ncreated\nin the\nimage\nof God',
       'color1': const Color(0xffFFFFFF).withOpacity(0.5),
       'color2': const Color(0xff36409A).withOpacity(0.5),
+      'color3': const Color(0xff36409A).withOpacity(0.5),
     },
     {
-      'tittle': 'I am created in the image of God',
+      'tittle': 'I am\ncreated\nin the\nimage\nof God',
       'color1': const Color(0xff2E6C75),
       'color2': const Color(0xff2E6C75),
+      'color3': const Color(0xff2E6C75)
     },
     {
-      'tittle': 'I am created in the image of God',
+      'tittle': 'I am\ncreated\nin the\nimage\nof God',
       'color1': const Color(0xff060C0D),
-      'color2': const Color(0xff346B73),
+      'color2': const Color(0xff060C0D),
+      'color3': const Color(0xff346B73),
     },
     {
-      'tittle': 'I am created in the image of God',
+      'tittle': 'I am\ncreated\nin the\nimage\nof God',
       'color1': const Color(0xff77736F),
       'color2': const Color(0xff77736F),
+      'color3': const Color(0xff77736F),
     },
   ];
 }
